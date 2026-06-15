@@ -1,6 +1,6 @@
 # Exportar e importar cursos entre Moodles
 
-## Versión Moodle IES Castelar
+## Versión Moodle
 
 **Versión:** `4.1.4`
 
