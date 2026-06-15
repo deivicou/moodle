@@ -21,10 +21,6 @@ Fue necesario instalar Moodle **manualmente**:
 3. Ejecutar el instalador de Moodle apuntando a la base de datos creada manualmente.
 4. Completar la configuración del sitio (`config.php`, rutas, datos de conexión a la BD).
 
-## Credenciales
-
-Ver [04 - Acceso y credenciales](04-acceso-y-credenciales.md) para la gestión segura de usuarios y contraseñas (no se incluyen en este repositorio).
-
 ## Notas
 
 El acceso al área personal de Moodle online se realiza desde la URL proporcionada por el hosting tras completar la instalación.
