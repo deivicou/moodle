@@ -1,0 +1,10 @@
+# Credenciales locales - NUNCA subir
+credenciales.local.md
+*.local.md
+
+# Ficheros de copia de seguridad de Moodle (.mbz) - pueden ser muy pesados
+*.mbz
+
+# Sistema
+.DS_Store
+Thumbs.db
