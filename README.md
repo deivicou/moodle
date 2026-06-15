@@ -14,7 +14,6 @@ Anotaciones y guía práctica para mantener un **Moodle local en un disco duro**
 
 | Concepto | Detalle |
 |---|---|
-| Versión Moodle IES Castelar | 4.1.4 |
 | Versiones que funcionan en local (probadas) | 4.3.2+ |
 | Versión online (probada) | 4.5.3+ |
 | Compatibilidad | Importación de copias de seguridad de cursos individuales entre versiones |
