@@ -7,8 +7,7 @@ Anotaciones y guía práctica para mantener un **Moodle local en un disco duro**
 - [01 - Exportar e importar cursos entre Moodles](docs/01-exportar-importar-cursos.md)
 - [02 - Repositorio de archivos vía sistema de archivos (FTP simulado)](docs/02-repositorio-sistema-archivos.md)
 - [03 - Mover el directorio de instalación de Moodle](docs/03-mover-directorio-instalacion.md)
-- [04 - Acceso, credenciales y notas varias](docs/04-acceso-y-credenciales.md)
-- [05 - Versión online (hosting)](docs/05-version-online.md)
+- [04 - Versión online (hosting)](docs/04-version-online.md)
 
 ## Resumen rápido
 
@@ -29,8 +28,7 @@ moodle/
 │   ├── 01-exportar-importar-cursos.md
 │   ├── 02-repositorio-sistema-archivos.md
 │   ├── 03-mover-directorio-instalacion.md
-│   ├── 04-acceso-y-credenciales.md
-│   └── 05-version-online.md
+│   └── 04-version-online.md
 └── images/
     ├── 01-detalles-copia-seguridad.png
     ├── 02-config-copia-seguridad.png
